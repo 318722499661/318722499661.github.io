@@ -1,0 +1,2 @@
+ipa_files/The_Sims_3_Ambitions_1.1.84.ipa filter=lfs diff=lfs merge=lfs -text
+ipa_files/iPhoto_v1.1.1_iOS6.ipa filter=lfs diff=lfs merge=lfs -text
